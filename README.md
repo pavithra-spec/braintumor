@@ -152,8 +152,3 @@ Training logs and accuracy metrics are printed during each epoch.
 ## Prediction
 
 Once the model is trained, predictions can be made using the Gradio interface. The function `predict_image` takes an image, processes it, and returns a prediction label.
-
-```
-
-This version has the "Contributing" section removed as per your request.
-```
